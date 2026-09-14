@@ -1,0 +1,12 @@
+# BuyWise AI source code directory.
+# This file keeps the code/ directory tracked by Git.
+#
+# Project:
+# BuyWise AI — Intelligent Financial Decision Agent
+#
+# Source modules will be organized into:
+# - ingestion/
+# - finance/
+# - ai/
+# - evaluation/
+# - utils/
